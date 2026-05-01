@@ -8,3 +8,4 @@ _cache/
 # 대용량 임시 산출물
 _tmp/
 *.log
+.env
