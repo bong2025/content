@@ -1,11 +1,12 @@
 {
-  "ceo": "openhermes-8k:latest",
-  "youtube": "openhermes-8k:latest",
-  "instagram": "openhermes-8k:latest",
-  "designer": "gemma4:e4b",
-  "business": "openhermes-8k:latest",
-  "secretary": "openhermes-8k:latest",
-  "editor": "openhermes-8k:latest",
-  "writer": "openhermes-8k:latest",
-  "researcher": "openhermes-8k:latest"
+  "ceo": "qwen3-8b",
+  "secretary": "qwen3-8b",
+  "youtube": "qwen/qwen3.5-9b",
+  "researcher": "qwen/qwen3.5-9b",
+  "business": "qwen/qwen3.5-9b",
+  "writer": "qwen/qwen3.5-9b",
+  "editor": "qwen/qwen3.5-9b",
+  "designer": "google/gemma-4-e4b",
+  "developer": "qwen/qwen3.5-9b",
+  "instagram": "qwen/qwen3.5-9b"
 }
