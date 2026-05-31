@@ -1,0 +1,6 @@
+{
+    "chatgpt.gpt3.reasoning.apiKey": "***REMOVED***",
+    "chatgpt.gpt3.reasoning.provider": "OpenAI",
+    "chatgpt.gpt3.apiKey": "***REMOVED***",
+    "chatgpt.gpt3.provider": "OpenAI"
+}
