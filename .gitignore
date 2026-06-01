@@ -2,8 +2,14 @@
 .DS_Store
 .obsidian/
 .trash/
+.venv/
 node_modules/
 *.tmp
 *.log
 .cache/
 Thumbs.db
+
+# Credentials & Tokens
+token_response.json
+token_response.json.bak
+credentials.json
