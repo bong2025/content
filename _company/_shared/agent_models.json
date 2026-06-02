@@ -1,11 +1,11 @@
 {
   "ceo": "google/gemma-4-e4b",
   "youtube": "qwen/qwen3.5-9b",
-  "instagram": "qwen/qwen3.5-9b",
+  "instagram": "google/gemma-4-e4b",
   "designer": "google/gemma-4-e4b",
   "developer": "qwen/qwen3.5-9b",
   "business": "qwen/qwen3.5-9b",
-  "secretary": "google/gemma-4-e4b",
+  "secretary": "openai-community-gpt2-smashed",
   "editor": "qwen/qwen3.5-9b",
   "writer": "qwen/qwen3.5-9b",
   "researcher": "qwen/qwen3.5-9b"
