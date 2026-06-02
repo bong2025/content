@@ -1,7 +1,11 @@
 from google_auth_oauthlib.flow import InstalledAppFlow
 
-# 구글 캘린더 읽기/쓰기 권한 설정
-SCOPES = ['https://www.googleapis.com/auth/calendar']
+# 구글 캘린더 및 유튜브 분석 읽기 권한 설정
+SCOPES = [
+    'https://www.googleapis.com/auth/calendar',
+    'https://www.googleapis.com/auth/youtube.readonly',
+    'https://www.googleapis.com/auth/yt-analytics.readonly'
+]
 
 def get_refresh_token():
     # credentials.json 파일을 기반으로 인증 플로우 시작
