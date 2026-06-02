@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": "20260602110940-jmmv",
+      "title": "기획 브레인스토밍 (주 1 회)",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-06-02T11:09:40.418Z",
+      "status": "pending",
+      "sessionDir": "2026-06-02T10-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260602110940-qz2b",
+      "title": "스크립트 최종 검토 (촬영 전)",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-06-02T11:09:40.420Z",
+      "status": "pending",
+      "sessionDir": "2026-06-02T10-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260602110940-xsq8",
+      "title": "촬영 장비 점검 리스트업",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-06-02T11:09:40.421Z",
+      "status": "pending",
+      "sessionDir": "2026-06-02T10-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260602110940-v8tu",
+      "title": "편집 템플릿 준비 (Premiere Pro/Davinci Resolve)",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-06-02T11:09:40.423Z",
+      "status": "pending",
+      "sessionDir": "2026-06-02T10-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    }
+  ]
+}
